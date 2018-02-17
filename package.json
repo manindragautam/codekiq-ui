@@ -1,8 +1,19 @@
 {
   "name": "codekiq-ui",
+  "private": false,
+  "author": "Manindra Gautam",
   "version": "0.0.1",
   "description": "React based UI framework",
   "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manindragautam/codekiq-ui.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manindragautam/codekiq-ui/issues"
+  },
+  "homepage": "https://codekiq.com/ui",
   "peerDependencies": {
     "react": "^16.2.0"
   },
@@ -24,8 +35,6 @@
     "css",
     "framework"
   ],
-  "author": "Manindra Gautam",
-  "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
