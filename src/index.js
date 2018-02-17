@@ -1,11 +1,13 @@
 import React from 'react'
 import './style.css'
 
-class Codekiq extends React.Component {
-  render () {
-    return (
-      <div className='text'>Codekiq UI</div>
-    )
-  }
+export const Codekiq = () => {
+  return (
+    <div>Codekiq UI</div>
+  )
 }
-export default Codekiq
+
+// Cards
+export { default as CardNote } from './cards/CardNote'
+export { default as CardSquare } from './cards/CardSquare'
+export { default as CardRect } from './cards/CardRect'
