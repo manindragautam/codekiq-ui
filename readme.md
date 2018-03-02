@@ -1,33 +1,20 @@
 # codekiq-ui
   React based UI framework
 
-## Components
-### Cards
+## Codekiq-UI is a powerful pack of React components that simplifies integration with your React App without any hassle.
 
-- Note Card
-  ```
-  import { CardNote } from 'codekiq-ui'
-  .
-  .
-  <CardNote note={<div><h1>Heading</h1>Note Card</div>} />
-  ```
+### Features
 
-- Square Card
-  ```
-  import { CardSquare } from 'codekiq-ui'
-  .
-  .
-  <CardSquare content="Hey I'm Square Card" />
-  ```
+- Rapid Development
+  With Codekiq-UI, the front-end development for React App is rapidly fast, just import components and use with your objects/elements. Our components library is increasing very fast.
 
-- Rectangle Card
-  ```
-  import { CardRect } from 'codekiq-ui'
-  .
-  .
-  <CardRect
-    image={'https://in.udacity.com/assets/iridium/images/homepage/shared/featured-cards/nd889-innlp.jpg'}
-    image_alt={'enroll'}
-    content={<span><h5>Enroll</h5>Codekiq Foundation</span>}
-  />
-  ```
+- Modern UI
+  Codekiq-UI components are based on modern web design approach, having neat and clean code structure (jQuery free) to easily maintain your components without any hassle.
+
+### Installation
+```bash
+$ cd your_project
+$ npm install codekiq-ui
+```
+
+[Component Documentation](https://codekiq.herokuapp.com/ui)
