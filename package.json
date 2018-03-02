@@ -2,7 +2,7 @@
   "name": "codekiq-ui",
   "private": false,
   "author": "Manindra Gautam",
-  "version": "0.0.3 beta",
+  "version": "0.0.3",
   "description": "React based UI framework",
   "main": "build/index.js",
   "repository": {
