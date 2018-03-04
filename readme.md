@@ -6,9 +6,11 @@
 ### Features
 
 - Rapid Development
+
   With Codekiq-UI, the front-end development for React App is rapidly fast, just import components and use with your objects/elements. Our components library is increasing very fast.
 
 - Modern UI
+
   Codekiq-UI components are based on modern web design approach, having neat and clean code structure (jQuery free) to easily maintain your components without any hassle.
 
 ### Installation
@@ -16,5 +18,10 @@
 $ cd your_project
 $ npm install codekiq-ui
 ```
+
+### Latest Changes (in brief)
+- Added Badge, Breadcrumb, Button, Divider components
+- Updates
+- [Read More...](https://codekiq.herokuapp.com/ui/v0.0.5)
 
 [Component Documentation](https://codekiq.herokuapp.com/ui)
